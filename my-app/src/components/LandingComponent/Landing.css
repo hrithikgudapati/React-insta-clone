@@ -1,0 +1,8 @@
+.home-content{
+     display:flex !important;
+      
+     flex-wrap: nowrap;
+     flex-direction: row ;
+     width: 300px;
+
+}
